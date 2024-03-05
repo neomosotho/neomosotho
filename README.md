@@ -10,14 +10,19 @@ Skills and Technologies:
 Soft Skills:
 
 Problem-solving
+
 Communication
+
 Collaboration
+
 Time Management
+
 Adaptability
 
 Version Control/Git:
 
 Git
+
 GitHub
 
 Web Development:
@@ -35,6 +40,7 @@ https://github.com/neomosotho/NEOMOS378_BCL2024_GroupA_Neo_Mosotho_SDF01.git
 Contact Information:
 
 Email: angelamosotho@gmail.com
+
 Phone: 0844784168
 
 
