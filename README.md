@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Neo Mosotho
-#### I am a Software Development student
-![I am a Software Developer student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am a Software Developer student
+![I am a Software Developer student]
 
 I am intrigued by the creative aspects of programming. 
 I enjoy the challenge of breaking down complex issues into smaller manageable parts and building innovative solutions to address them.
@@ -14,8 +14,6 @@ JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neomosotho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/NeoMosotho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/angela_mosotho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Angela_Mosotho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NeoMosotho)  
 
-Projects:
-https://github.com/neomosotho/NEOMOS378_BCL2024_GroupA_Neo_Mosotho_SDF01.git
 
 Contact Information:
 Email: angelamosotho@gmail.com
