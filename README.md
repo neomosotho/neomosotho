@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Neo Mosotho
 #### I am a Software Developer student
-![I am a Software Developer student]
+
 
 I am intrigued by the creative aspects of programming. 
 I enjoy the challenge of breaking down complex issues into smaller manageable parts and building innovative solutions to address them.
